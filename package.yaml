@@ -1,0 +1,10 @@
+name: Wolf2789/switch
+description: Switch statement for Lua.
+version: 0.1
+author: 
+  - email: wolf2789@gmail.com
+    name: Dawid Bugajski
+autoload:
+  - type: global
+    name: switch
+    path: switch.lua
